@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/larryosborn/copy-ip-cli.git"
   },
-  "author": "Larry Osborn <larryosborn@gmail.com>",
+  "author": "Larry Osborn",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/larryosborn/copy-ip-cli/issues"
