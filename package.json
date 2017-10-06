@@ -1,0 +1,22 @@
+{
+  "name": "copy-ip-cli",
+  "version": "1.0.0",
+  "description": "Copy your IP to the clipboard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larryosborn/copy-ip-cli.git"
+  },
+  "author": "Larry Osborn <larryosborn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/larryosborn/copy-ip-cli/issues"
+  },
+  "homepage": "https://github.com/larryosborn/copy-ip-cli#readme",
+  "dependencies": {
+    "clipboardy": "^1.1.4"
+  }
+}
